@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        checking it has been succeed!! 
+        checking it has been succeed!! ~~
       </header>
     </div>
   );
