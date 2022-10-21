@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/eclipselife.netlify.app/static/css/main.073c9b0a.css",
+    "main.js": "/eclipselife.netlify.app/static/js/main.8fc4a227.js",
+    "static/js/787.1f262832.chunk.js": "/eclipselife.netlify.app/static/js/787.1f262832.chunk.js",
+    "static/media/logo.svg": "/eclipselife.netlify.app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/eclipselife.netlify.app/index.html",
+    "main.073c9b0a.css.map": "/eclipselife.netlify.app/static/css/main.073c9b0a.css.map",
+    "main.8fc4a227.js.map": "/eclipselife.netlify.app/static/js/main.8fc4a227.js.map",
+    "787.1f262832.chunk.js.map": "/eclipselife.netlify.app/static/js/787.1f262832.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8fc4a227.js"
+  ]
+}
